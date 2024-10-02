@@ -183,7 +183,7 @@ The `<div>` tag is used as a container for other HTML elements. It helps group a
 
 These tags form the foundation for structuring and organizing content on your web page.
 
-Certainly! You can find a comprehensive list of all HTML5 tags and their descriptions on the following resource:
+You can find a comprehensive list of all HTML5 tags and their descriptions on the following resource:
 
 [MDN Web Docs: HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
